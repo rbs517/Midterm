@@ -1,0 +1,79 @@
+html{
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica', Geneva, Verdana, Arial, sans-serif;
+	font-size: 16px;
+	background-image: "bkg1.jpg";
+	background-color: black;
+	color: white;
+	text-align: left;
+
+}
+
+#title{
+	text-align: center;
+	color: white;
+	font-family: 'Helvetica', Geneva, Verdana, Arial, sans-serif;
+	font-size: 16px;
+	border: 5px solid #FF4500;
+	width: 600px;
+	padding: 0px;
+	margin: 10px;
+	position: relative;
+		left: 25%;
+
+}
+
+#word{
+	text-align: center;
+	color: white;
+	font-family: 'Helvetica', Geneva, Verdana, Arial, sans-serif;
+	font-size: 14px;
+
+}
+
+.Results{ 
+	font-size: 14px;
+	background-color: black;
+	color: white;
+	position: relative;
+		left: 25%;
+	width: 600px;
+	text-align: center;
+	border: 5px solid #66ccff;
+	padding: 0px;
+	margin: 10px;
+}
+
+.Results2{
+	font-size: 18px;
+	text-align: center;
+}
+
+
+#weather{
+	font-size: 18px;
+	text-align: center;
+	color: white;
+}
+
+#container1{
+	float: center;
+	width: 800px;
+	text-align: left;
+	color: white;
+	border: 0px solid white;
+	position: absolute;
+		bottom: 52%;
+		left: 29%;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+#container2 {
+	position: absolute;
+		bottom: 45%;
+		left: 44%;
+
+}	
